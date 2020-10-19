@@ -1,0 +1,9 @@
+C:\Users\Aviv\Desktop\בית ספר\HangmanAPI\bin\Debug\netcoreapp3.1\HangmanAPI.deps.json
+C:\Users\Aviv\Desktop\בית ספר\HangmanAPI\bin\Debug\netcoreapp3.1\HangmanAPI.dll
+C:\Users\Aviv\Desktop\בית ספר\HangmanAPI\bin\Debug\netcoreapp3.1\HangmanAPI.pdb
+C:\Users\Aviv\Desktop\בית ספר\HangmanAPI\obj\Debug\netcoreapp3.1\HangmanAPI.csprojAssemblyReference.cache
+C:\Users\Aviv\Desktop\בית ספר\HangmanAPI\obj\Debug\netcoreapp3.1\HangmanAPI.AssemblyInfoInputs.cache
+C:\Users\Aviv\Desktop\בית ספר\HangmanAPI\obj\Debug\netcoreapp3.1\HangmanAPI.AssemblyInfo.cs
+C:\Users\Aviv\Desktop\בית ספר\HangmanAPI\obj\Debug\netcoreapp3.1\HangmanAPI.csproj.CoreCompileInputs.cache
+C:\Users\Aviv\Desktop\בית ספר\HangmanAPI\obj\Debug\netcoreapp3.1\HangmanAPI.dll
+C:\Users\Aviv\Desktop\בית ספר\HangmanAPI\obj\Debug\netcoreapp3.1\HangmanAPI.pdb
