@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="deacafcf-0a8a-49bf-9ae3-e543ae5ea38b" ChangeDateTime="10/03/2020 21:10:08">
+    <Property Name="ElementName" Value="[dbo].[Game].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Game]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="gid" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="c00f73f8-cd89-48f8-bb69-329937b55571" ChangeDateTime="10/03/2020 21:11:01">
+    <Property Name="ElementName" Value="[dbo].[Player].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Player]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="pid" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="e28936eb-f0b7-4e90-b6ed-c583936eb9f8" ChangeDateTime="10/03/2020 21:12:32">
+    <Property Name="ElementName" Value="[dbo].[Participation].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Participation]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="pid" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="161fa86d-33c0-44c5-a8de-063d6f073cd6" ChangeDateTime="10/03/2020 21:14:16">
+    <Property Name="ElementName" Value="[dbo].[Guess].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Guess]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="pid" />
+  </Operation>
+</Operations>
